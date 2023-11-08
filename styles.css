@@ -1,0 +1,64 @@
+ /* * {
+	border: 1px dashed red;
+	min-height: 10px;
+} */
+
+
+
+body{
+    background: rgb(53, 53, 53);
+}
+h1 {
+    color: aliceblue;
+    
+}
+
+
+
+.myBox {
+    width: 400px;
+	height: 350px;
+	/* padding: 10px 70px 10px 10px; */
+    border: 5px solid rgb(12, 12, 12);
+    border-radius: 10px;
+    margin: auto;
+    margin-bottom: 30px;
+    background: rgb(122, 122, 122)
+    /* no-repeat 100px / contain; */
+
+}
+.Textile {
+    color: rgb(233, 233, 233);
+    display: flex;
+    
+}
+.Textile h2 {
+    padding-left: 5px;
+    width: 310px;
+    height: auto;
+    margin: 0;
+    margin-right: 9px;
+}
+.Textile h4 {
+    color: rgba(39, 39, 39, 0.486);
+    width: 50px;
+    height: auto;
+    margin: 0;
+    text-align: right;
+}
+
+.myPhoto {
+    margin: auto;
+}
+.myPhoto img {
+    width: 400px;
+    height: 280px;
+    margin: auto;
+    padding: 0;
+}
+.TextDescription h5 {
+    width: auto;
+    height: auto;
+    padding: 5px;
+    margin: auto;
+}
